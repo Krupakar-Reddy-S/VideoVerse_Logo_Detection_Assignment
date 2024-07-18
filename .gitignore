@@ -1,0 +1,11 @@
+.env
+datasets/
+
+cocacola_test/coca-cola-5
+cocacola_test/runs
+
+pepsi_test/Pepsi-Logo-Detection-1
+pepsi_test/runs
+
+test/test.mp4
+test/test_out.mp4
